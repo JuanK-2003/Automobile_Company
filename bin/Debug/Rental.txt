@@ -1,0 +1,1 @@
+[{"NIT":"701921-1","\nLicense plate":"789ABC","\nRental date":"3/8/2021 12:08:40 AM","\nReturn date":"3/25/2021 12:00:00 AM","\nKilometers traveled":"0"}]
